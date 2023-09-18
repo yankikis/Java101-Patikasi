@@ -1,7 +1,7 @@
 package Ortalama;
 import java.util.Scanner;
 
-public class NotOrtalamasi {
+public class Ortalama {
     public static void main(String[] args) {
         int math, phy, chem, turkish, history, music;
         Scanner input = new Scanner(System.in);
