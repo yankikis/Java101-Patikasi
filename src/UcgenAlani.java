@@ -3,7 +3,7 @@ public class UcgenAlani {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        int a, b, c, cevre, u;
+        int a, b, c, u;
         System.out.print("Birinci kenarın uzunluğu: ");
         a = input.nextInt();
         System.out.print("İkinci kenarın uzunluğu: ");
