@@ -8,7 +8,7 @@ public class DaireAlaniCevresi {
         double r; // yarıçap
         r = input.nextInt();
 
-        double  alan, cevre, acilialan;
+        double  alan, cevre, acilialan, acilicevre;
         cevre = (2 * PI * r);
         alan = (PI * r * r);
 
@@ -17,10 +17,11 @@ public class DaireAlaniCevresi {
         x = input.nextDouble();
 
         acilialan = (alan * x) / 360 ;
+        acilicevre = (cevre * x) / 360;
 
         System.out.println("Dairenin çevresi: "+ cevre);
         System.out.println("Dairenin alanı: "+ alan);
         System.out.println(x+ " Derece açılı dilimin alanı: "+ acilialan);
-
+        System.out.println(x+ " Derece açılı yay uzunluğu: "+ acilicevre);
     }
 }
