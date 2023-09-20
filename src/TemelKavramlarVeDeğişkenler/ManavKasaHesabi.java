@@ -1,3 +1,5 @@
+package TemelKavramlarVeDeğişkenler;
+
 import java.util.Scanner;
 
 public class ManavKasaHesabi {

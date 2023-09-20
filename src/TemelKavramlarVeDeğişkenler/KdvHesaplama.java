@@ -1,4 +1,4 @@
-package KDVhesaplama;
+package TemelKavramlarVeDeğişkenler;
 import java.util.Scanner;
 
 public class KdvHesaplama {

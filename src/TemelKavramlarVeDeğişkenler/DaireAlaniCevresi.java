@@ -1,3 +1,5 @@
+package TemelKavramlarVeDeğişkenler;
+
 import java.util.Scanner;
 public class DaireAlaniCevresi {
     public static final double PI= 3.14;

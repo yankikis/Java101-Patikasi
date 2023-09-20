@@ -1,3 +1,5 @@
+package TemelKavramlarVeDeğişkenler;
+
 import java.util.Scanner;
 public class VucutKitleIndexi {
     public static void main(String[] args) {
