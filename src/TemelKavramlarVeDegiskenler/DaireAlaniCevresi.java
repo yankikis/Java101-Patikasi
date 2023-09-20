@@ -1,7 +1,7 @@
-package DaireAlaniCevresi;
+package TemelKavramlarVeDegiskenler;
 import java.util.Scanner;
 
-public class Main {
+public class DaireAlaniCevresi {
     public static void main(String[] args) {
         final double PI = 3.14;
         Scanner input = new Scanner(System.in);
