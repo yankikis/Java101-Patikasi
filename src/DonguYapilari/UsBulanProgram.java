@@ -16,7 +16,7 @@ public class UsBulanProgram {
 
         System.out.print("Beşin kuvvetleri: ");
         for (int i = 1; i < n; i *= 5){
-            System.out.print(i + ",");
+            System.out.print( i + ",");
         }
         System.out.println(" ");
     }
