@@ -8,7 +8,7 @@ public class FibonacciSerisi {
         n = input.nextInt();
 
         System.out.print(n + " elemanlı Fibonacci serisi: " +first+ " "+second+ " " );
-        for (int i = 0; i <= n-2; i++){
+        for (int i = 0; i < n-2; i++){
             next = first + second;
             first = second;
             second = next;
