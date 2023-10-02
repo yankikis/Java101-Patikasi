@@ -1,7 +1,7 @@
 package Diziler;
 import java.util.Arrays;
 import java.util.Scanner;
-public class DiziElemanlainiSiralama {
+public class DiziElemanlariniSiralama {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int n;
